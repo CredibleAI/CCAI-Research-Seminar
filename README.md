@@ -22,7 +22,7 @@ Join us at https://meet.drwhy.ai.
 * 25.05 - [Shifting the Gradient: Understanding How Defensive Training Methods Protect Language Model Integrity](https://arxiv.org/abs/2604.16423) - Jan Piotrowski
 * 01.06 - From Debate to Equilibrium: Belief‑Driven Multi‑Agent LLM Reasoning via Bayesian Nash Equilibrium - Inez Okulska
 * 08.06 - [From Memorization to Reasoning in the Spectrum of Loss Curvature](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2026/2026_06_08_from-memorization-to-reasoning) - Teodor Lamort de Gail
-* 15.06 - From End-to-end to Step-by-step: Learning to Abstract via Abductive Reinforcement Learning - Maciej Świechowski
+* 15.06 - [From End-to-end to Step-by-step: Learning to Abstract via Abductive Reinforcement Learning](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2026/2026_06_15_learning-to-abstract-via-abductive-reinforcement-learning) - Maciej Świechowski
 * 22.06 - invited lecture by [Yashar Moshfeghi](https://scholar.google.com/citations?user=BaFcnWIAAAAJ)
 
 ### Fall semester
