@@ -24,6 +24,7 @@ Join us at https://meet.drwhy.ai.
 * 08.06 - [From Memorization to Reasoning in the Spectrum of Loss Curvature](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2026/2026_06_08_from-memorization-to-reasoning) - Teodor Lamort de Gail
 * 15.06 - [From End-to-end to Step-by-step: Learning to Abstract via Abductive Reinforcement Learning](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2026/2026_06_15_learning-to-abstract-via-abductive-reinforcement-learning) - Maciej Świechowski
 * 22.06 - invited lecture by [Yashar Moshfeghi](https://scholar.google.com/citations?user=BaFcnWIAAAAJ)
+* 29.06 - [Selective Generation for Controllable Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5a6815122f533193a022cbc41786c1cc-Abstract-Conference.html) - Herbert Potrykus
 
 ### Fall semester
 
