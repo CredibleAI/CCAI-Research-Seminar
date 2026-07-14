@@ -25,6 +25,14 @@ Join us at https://meet.drwhy.ai.
 * 15.06 - [From End-to-end to Step-by-step: Learning to Abstract via Abductive Reinforcement Learning](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2026/2026_06_15_learning-to-abstract-via-abductive-reinforcement-learning) - Maciej Świechowski
 * 22.06 - invited lecture by [Yashar Moshfeghi](https://scholar.google.com/citations?user=BaFcnWIAAAAJ)
 * 29.06 - [Selective Generation for Controllable Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5a6815122f533193a022cbc41786c1cc-Abstract-Conference.html) - Herbert Potrykus
+* 13.07 - invited lecture by [Michał Godziszewski](https://scholar.google.com/citations?user=rlF_rMAAAAAJ&hl=en) - [Game-Theoretic Consensus Deep Learning for Adaptive Flood Prediction in Digital Twin Environments](https://ieeexplore.ieee.org/document/11113305)
+* 20.07 - Maciej Szymkowski
+* 27.07 - Tomasz Steifer
+* 3.08 - invited lecture by Maximilian Muschalik
+* 10.08 - TBA
+* 17.08 - Kamil Książek
+* 24.08 - Piotr Suszyński
+* 31.08 - Paweł Gelar
 
 ### Fall semester
 
