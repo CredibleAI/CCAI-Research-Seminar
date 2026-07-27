@@ -29,7 +29,7 @@ Join us at https://meet.drwhy.ai.
 * 20.07 - Maciej Szymkowski
 * 27.07 - Tomasz Steifer
 * 3.08 - invited lecture by Maximilian Muschalik
-* 10.08 - TBA
+* 10.08 - Michał Włodarczyk
 * 17.08 - Kamil Książek
 * 24.08 - Piotr Suszyński
 * 31.08 - Paweł Gelar
