@@ -33,6 +33,14 @@ Join us at https://meet.drwhy.ai.
 * 17.08 - Kamil Książek
 * 24.08 - Piotr Suszyński
 * 31.08 - Paweł Gelar
+* 7.09 - Vladimir Zaigrajew
+* 14.09 - Julian Sienkiewicz
+* 21.09 - Damian Wójtowicz
+* 28.09 - Jakub Grzywaczewski
+* 5.10 - Agata Wijata
+* 12.10 - Inez Okulska
+* 19.10 - Surprise!
+* 26.10 - Bartłomiej Sobieski
 
 ### Fall semester
 
